@@ -1,0 +1,15 @@
+﻿Swagger URL : "https://localhost:5001/swagger"
+
+Web API URL : "https://localhost:5001/api/Calculate" 
+
+        => Allowed Request Method : Post
+        => Body Format : Json
+        => Body parameters : CompanyModel => 
+                                    {
+                                        Name : "string" ,
+                                        RegistrationNumber : double,
+                                        AnnualTurnover : double ,
+                                        Address : "string : optional"         
+                                    }
+                   if there is a string in request body then will calculate base on SAS
+                   otherwise will calculate base on  Self-Enterprise

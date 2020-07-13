@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculator", "TaxCalculator\TaxCalculator.csproj", "{F4BEF9A0-2DAA-41BB-95D4-30B2EA0B6080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculator.UnitTests", "TaxCalculator.UnitTests\TaxCalculator.UnitTests.csproj", "{DA73A7DC-E2AC-41D3-88BC-7B2447830CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BEF9A0-2DAA-41BB-95D4-30B2EA0B6080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BEF9A0-2DAA-41BB-95D4-30B2EA0B6080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BEF9A0-2DAA-41BB-95D4-30B2EA0B6080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BEF9A0-2DAA-41BB-95D4-30B2EA0B6080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA73A7DC-E2AC-41D3-88BC-7B2447830CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA73A7DC-E2AC-41D3-88BC-7B2447830CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA73A7DC-E2AC-41D3-88BC-7B2447830CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA73A7DC-E2AC-41D3-88BC-7B2447830CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
